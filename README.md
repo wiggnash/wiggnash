@@ -53,7 +53,7 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/d8edba06f31fec082c506e7abb06a938/tumblr_njks8tE7nI1roq2rho1_400.gifv"  />
+<img align="center" height="200" src="https://64.media.tumblr.com/d8edba06f31fec082c506e7abb06a938/tumblr_njks8tE7nI1roq2rho1_400.gifv"  />
 
 ###
 <!---
