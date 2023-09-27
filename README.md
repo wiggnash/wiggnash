@@ -1,7 +1,8 @@
 # 💫 About Me:
 - 🔭 **I’m currently working** on learning Solidity and the MERN stack to build decentralized applications (DApps) and exploring Web3 technology to enhance my blockchain development skills.<br>- 👯 **I’m looking to collaborate** on opportunities in the exciting realms of DApps related to sports and defense, as well as projects in the DeFi and DAO spaces. If you're working on initiatives within these areas and are interested in collaborating, please reach out!<br>- 🌱 **I’m currently learning** Solidity, a programming language for building smart contracts on blockchain platforms, as well as exploring the Foundry framework. In addition, I'm enhancing my skills in web development through the MERN stack.<br>- ⚡ **Fun fact** I absolutely love volleyball, and when I'm not spiking or serving on the court, I'm indulging in my other passion - eating!
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3z4.gif">
+<img alt="Coding" width="400" src="https://i.gifer.com/3z4.gif">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwardeivasigamani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xwiggnash) 
 
