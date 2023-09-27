@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Vigneshwar and I'm a web3 wizard from Chennai, India.</h2>
+- 🔭 **I’m currently working** on learning Solidity and the MERN stack to build decentralized applications (DApps) and exploring Web3 technology to enhance my blockchain development skills.
+- 👯 **I’m looking to collaborate** on opportunities in the exciting realms of DApps related to sports and defense, as well as projects in the DeFi and DAO spaces. If you're working on initiatives within these areas and are interested in collaborating, please reach out!
+- 🌱 **I’m currently learning** Solidity, a programming language for building smart contracts on blockchain platforms, as well as exploring the Foundry framework. In addition, I'm enhancing my skills in web development through the MERN stack.
+- ⚡ **Fun fact** I absolutely love volleyball, and when I'm not spiking or serving on the court, I'm indulging in my other passion - eating!
 
 ###
 
